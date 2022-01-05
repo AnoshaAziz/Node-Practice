@@ -1,0 +1,5 @@
+{
+
+    "privateKey": "12334",
+    "db":"mongodb://localhost:27017/LifeOn_Test"
+}
